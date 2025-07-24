@@ -35,15 +35,15 @@ export const metadata: Metadata = {
   authors: [{ name: "Daukariebi Michael Soroh", url: "https://kariebi.vercel.app" }],
   creator: "Daukariebi Michael Soroh",
   openGraph: {
-    title: "Daukariebi Michael Soroh | Fullstack & Web3 Engineer",
+    title: "Daukariebi Michael Soroh | Fullstack Web3 Engineer",
     description:
-      "Expert in building high-performance fullstack and Web3 applications. From real-time AI models to scalable backend APIs, I bring ideas to life.",
+      "Expert in building high-performance fullstack Web3 applications. From real-time AI models to scalable backend APIs, I bring ideas to life.",
     siteName: "Michael \"Kariebi\" Soroh",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
-        height: 1200,
+        height: 630,
         alt: "Daukariebi Michael Soroh - Fullstack Developer",
       },
     ],
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Daukariebi Michael Soroh | Fullstack & Web3 Engineer",
+    title: "Daukariebi Michael Soroh | Fullstack Web3 Engineer",
     description:
       "Building future-proof digital experiences using Next.js, NestJS, Web3, AI, and real-time tech.",
     images: ["/og-image.png"],
