@@ -37,13 +37,13 @@ export default function Contact() {
     {
       icon: Github,
       label: "GitHub",
-      href: "#",
+      href: "https://github.com/kariebi",
       color: "hover:text-gray-900 dark:hover:text-white",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "#",
+      href: "https://linkedin.com/in/kariebi",
       color: "hover:text-blue-600 dark:hover:text-blue-400",
     },
     {
