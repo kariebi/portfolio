@@ -25,12 +25,12 @@ export default function Skills() {
     {
       icon: Database,
       title: "Databases",
-      skills: ["PostgreSQL", "MongoDB", "MySQL", "Prisma", "Redis"],
+      skills: ["PostgreSQL", "MongoDB", "MySQL", "Prisma", "Redis", "ConvexDB"],
     },
     {
       icon: Blocks,
       title: "Blockchain & Web3",
-      skills: ["COTI Blockchain", "Ether.js", "Ton Blockchain", "Smart Contracts", "Web3 Integration"],
+      skills: ["COTI Blockchain", "Ether.js", "Solidity", "Ton Blockchain (Func)", "Smart Contracts", "Web3 Integration"],
     },
     {
       icon: Cloud,

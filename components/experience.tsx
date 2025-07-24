@@ -24,7 +24,7 @@ export default function Experience() {
         "Completed 3 high-priority milestones in 10 days (originally 4 weeks)",
         "Boosted team velocity by 40% while mentoring junior Engineers",
       ],
-      technologies: ["React", "Next.js", "TypeScript", "Convex", "AI/ML"],
+      technologies: ["React", "Next.js", "FastAPI", "TypeScript", "Python", "Convex", "AI/ML"],
     },
     {
       company: "Musigwe Labs",
@@ -38,7 +38,7 @@ export default function Experience() {
         "Improved blockchain wallet reliability by 99%",
         "Deployed applications on bare-metal Linux servers via SSH",
       ],
-      technologies: ["React Native", "Web3", "COTI", "Telegram", "Linux"],
+      technologies: ["React Native", "Web3", "PM2", "Nginx", "Next.js", "COTI", "Telegram", "Linux"],
     },
     {
       company: "Homiee.AU",

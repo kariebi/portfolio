@@ -41,7 +41,7 @@ export default function About() {
           >
             <h3 className="text-2xl font-bold mb-6 text-gray-800 dark:text-gray-200">Versatile Full Stack Engineer</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-              With over 9 years of experience in building scalable, high-performance Web2 and Web3 applications, I
+              With about a decade of experience in building scalable, high-performance Web2 and Web3 applications, I
               specialize in architecting both frontend and backend systems using modern technologies like React/Next.js
               and Node.js/NestJS with TypeScript.
             </p>

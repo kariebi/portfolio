@@ -42,8 +42,6 @@ export const metadata: Metadata = {
     images: [
       {
         url: "/og-image.png",
-        width: 1200,
-        height: 630,
         alt: "Daukariebi Michael Soroh - Fullstack Developer",
       },
     ],
