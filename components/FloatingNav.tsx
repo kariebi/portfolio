@@ -8,7 +8,6 @@ import {
   Moon,
 } from "lucide-react";
 import { useTheme } from "next-themes";
-import { useState } from "react";
 
 export default function FloatingNav() {
   const { theme, setTheme } = useTheme();
