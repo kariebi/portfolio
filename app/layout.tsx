@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { ThemeProvider } from "@/components/theme-provider";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Daukariebi Michael Soroh | Fullstack Web3 Engineer",
+  title: "Daukariebi Michael Soroh — Full-Stack Engineer",
   description:
     "Results-driven fullstack and blockchain engineer building global-scale apps, AI-integrated systems, and real-time fintech tools using React, Next.js, NestJS, FastAPI and more.",
   keywords: [
@@ -32,13 +33,15 @@ export const metadata: Metadata = {
     "OpenAI",
     "COTI Blockchain",
   ],
-  authors: [{ name: "Daukariebi Michael Soroh", url: "https://kariebi.vercel.app" }],
+  authors: [
+    { name: "Daukariebi Michael Soroh", url: "https://kariebi.vercel.app" },
+  ],
   creator: "Daukariebi Michael Soroh",
   openGraph: {
     title: "Daukariebi Michael Soroh | Fullstack Web3 Engineer",
     description:
       "Expert in building high-performance fullstack Web3 applications. From real-time AI models to scalable backend APIs, I bring ideas to life.",
-    siteName: "Michael \"Kariebi\" Soroh",
+    siteName: 'Michael "Kariebi" Soroh',
     images: [
       {
         url: "/og-image.png",
@@ -71,7 +74,9 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
+          {children}
+        </ThemeProvider>
       </body>
     </html>
   );
