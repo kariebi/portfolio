@@ -9,7 +9,7 @@ export default function Hero() {
           <span className="text-2xl font-semibold tracking-tight">
             Daukariebi Michael Soroh
           </span>
-          <span className="text-base text-gray-600 dark:text-gray-400 max-w-lg leading-relaxed">
+          <span className="text-base text-gray-600 max-w-lg leading-relaxed">
             I build and ship production software — web apps, mobile apps, fintech
             systems, Web3 integrations, and real-time pipelines. TypeScript-first,
             end to end.
@@ -37,7 +37,7 @@ export default function Hero() {
           See some of my work
         </a>
       </div>
-      <div className="flex items-center gap-6 flex-wrap text-sm text-gray-600 dark:text-gray-400">
+      <div className="flex items-center gap-6 flex-wrap text-sm text-gray-600">
         <span><span className="font-bold">5+</span> years building software</span>
         <span><span className="font-bold">10+</span> products shipped to production</span>
         <span><span className="font-bold">Thousands</span> of users on live apps</span>
