@@ -11,7 +11,7 @@ import FloatingNav from "@/components/FloatingNav";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-white text-gray-900">
+    <main className="min-h-screen bg-background text-foreground">
       <div className="max-w-2xl mx-auto px-6 py-24 flex flex-col gap-16">
         <Hero />
         <About />
