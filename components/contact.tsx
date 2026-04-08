@@ -17,7 +17,7 @@ export default function Contact() {
         <div className="flex items-center gap-3 flex-wrap">
           <a
             href="mailto:sorohmichael@gmail.com"
-            className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-gray-900 text-white text-sm font-medium hover:bg-gray-700 transition-colors"
+            className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg bg-gray-900 text-white text-sm font-medium hover:bg-gray-700 transition-colors"
           >
             Send an email
             <ArrowUpRight size={14} />
@@ -26,7 +26,7 @@ export default function Contact() {
             href="https://linkedin.com/in/kariebi"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border border-foreground/20 text-sm font-medium hover:border-gray-400 transition-colors"
+            className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-foreground/20 text-sm font-medium hover:border-gray-400 transition-colors"
           >
             LinkedIn
           </a>

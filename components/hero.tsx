@@ -25,14 +25,14 @@ export default function Hero() {
       <div className="flex items-center gap-3 flex-wrap">
         <a
           href="mailto:sorohmichael@gmail.com"
-          className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-gray-900 text-white text-sm font-medium hover:bg-gray-700 transition-colors"
+          className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg bg-gray-900 text-white text-sm font-medium hover:bg-gray-700 transition-colors"
         >
           Contact me
           <ArrowUpRight size={14} />
         </a>
         <a
           href="#projects"
-          className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border border-foreground/20 text-sm font-medium hover:border-foreground/40 transition-colors"
+          className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg border border-foreground/20 text-sm font-medium hover:border-foreground/40 transition-colors"
         >
           See some of my work
         </a>
