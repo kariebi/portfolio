@@ -126,7 +126,7 @@ const projects: Project[] = [
   // },
   {
     title: "Sepow.co",
-    date: "Codetratives • Website",
+    date: "Codetratives • Web Platform",
     description:
       "Website delivered while at Codetratives, translating brand and product requirements into a clean, responsive web presence with a polished frontend implementation.",
     tech: ["Next.js", "TypeScript", "Responsive UI", "Frontend"],
