@@ -3,59 +3,59 @@ import { cn } from "@/lib/utils";
 
 const otherWork = [
   {
-    date: "Jun 2023",
-    title: "Geolocation Claims System",
-    location: "Port Harcourt, NG",
+    date: "2026",
+    title: "Linux Deployment & Hotfix Releases",
+    location: "Musigwe Labs • Remote",
     description:
-      "Launched a geolocation-based homeowner claims feature at Homiee.AU. Contributed to 10% growth in monthly active users. The feature enables users to verify property claims based on GPS coordinates.",
+      "Managed Linux-based application deployments with Node.js and PM2, making it easier to ship updates and same-day fixes when products needed fast turnaround.",
     links: [],
   },
   {
-    date: "Sep 2023",
-    title: "CRM Monorepo Architecture Migration",
-    location: "Remote",
+    date: "2025",
+    title: "Homiee.AU Claims Flow",
+    location: "Frontend Engineering • Remote",
     description:
-      "Migrated a multi-package codebase into a monorepo architecture at Execufy, reducing cross-package dependency conflicts and standardizing tooling across engineering teams.",
+      "Helped ship a geolocation-based homeowner claims feature and supported a cleaner UI system for an easier, more reliable product experience.",
     links: [],
   },
   {
-    date: "Nov 2023",
-    title: "COTI Blockchain Integration",
-    location: "Remote",
+    date: "2025",
+    title: "Telegram Web-App UX Development",
+    location: "Musigwe Labs • Remote",
     description:
-      "Deployed Web3 solutions on the COTI blockchain to automate decentralized transaction workflows at Musigwe Labs. Reduced manual settlement time significantly.",
+      "Improved Telegram web-app UX and performance, helping product interactions feel smoother and more responsive for everyday users.",
     links: [],
   },
   {
-    date: "Jan 2024",
-    title: "Django Auth Hardening (Tagworld)",
-    location: "Remote",
+    date: "2024",
+    title: "COTI Blockchain Integrations",
+    location: "Musigwe Labs • Remote",
     description:
-      "Secured user authentication pipelines using Django at Tagworld Stores, improving login success rates by 50% and reducing unauthorized access incidents.",
+      "Worked on Web3 integrations on the COTI blockchain to support decentralized transaction workflows and reduce manual operational steps.",
     links: [],
   },
   {
-    date: "Mar 2024",
-    title: "Telegram Mini-App UX Overhaul",
-    location: "Remote",
+    date: "2024",
+    title: "Django Authentication Hardening",
+    location: "Tagworld Stores • Remote",
     description:
-      "Elevated Telegram mini-app user engagement by 35% at Musigwe Labs through targeted UX improvements and performance optimizations.",
+      "Built more secure authentication flows and improved backend behavior for a production commerce platform using Django and relational data models.",
     links: [],
   },
   {
-    date: "Jul 2024",
-    title: "CI/CD Pipeline Streamlining (Abinci.ng)",
-    location: "Remote",
+    date: "2024",
+    title: "X3 Staffing Platform Support",
+    location: "Full-Stack Engineering • Remote",
     description:
-      "Streamlined CI/CD deployment workflows at Abinci.ng, increasing release frequency and efficiency by 30%. Resolved over 1,000 frontend defects across 12+ core UI pages.",
+      "Delivered responsive frontend work and API-facing backend improvements, helping core product flows feel faster and more dependable.",
     links: [],
   },
   {
-    date: "Jan 2025",
-    title: "And lots more...",
-    location: "Nigeria, Remote",
+    date: "2023",
+    title: "Ongoing Product Delivery",
+    location: "Nigeria • Remote",
     description:
-      "Continued shipping production software across fintech, real estate, and Web3 verticals. Always building.",
+      "Shipped production work across mobile, web, backend, and integration-heavy products while continuing to grow range across product and platform engineering.",
     links: [],
   },
 ];

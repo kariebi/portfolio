@@ -14,33 +14,30 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://kariebi.vercel.app"),
   title: "Daukariebi Michael Soroh — Full-Stack Engineer",
   description:
-    "Results-driven fullstack and blockchain engineer building global-scale apps, AI-integrated systems, and real-time fintech tools using React, Next.js, NestJS, FastAPI and more.",
+    "Full-stack engineer building production web and mobile products with TypeScript, React, Next.js, React Native, and scalable backend systems.",
   keywords: [
-    "Fullstack Developer",
-    "Web3 Engineer",
+    "Full-Stack Engineer",
+    "Software Engineer",
     "Next.js",
+    "React Native",
     "NestJS",
     "React",
-    "Blockchain",
-    "Convex",
-    "Realtime Systems",
-    "AI Sentiment",
-    "Crypto Apps",
-    "Financial Tools",
     "TypeScript Developer",
-    "OpenAI",
-    "COTI Blockchain",
+    "Mobile App Developer",
+    "Web Developer",
+    "Realtime Systems",
   ],
   authors: [
     { name: "Daukariebi Michael Soroh", url: "https://kariebi.vercel.app" },
   ],
   creator: "Daukariebi Michael Soroh",
   openGraph: {
-    title: "Daukariebi Michael Soroh | Fullstack Web3 Engineer",
+    title: "Daukariebi Michael Soroh | Full-Stack Engineer",
     description:
-      "Expert in building high-performance fullstack Web3 applications. From real-time AI models to scalable backend APIs, I bring ideas to life.",
+      "Production-focused engineer shipping polished web and mobile products across product UI, backend systems, and realtime infrastructure.",
     siteName: 'Michael "Kariebi" Soroh',
     images: [
       {
@@ -53,9 +50,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Daukariebi Michael Soroh | Fullstack Web3 Engineer",
+    title: "Daukariebi Michael Soroh | Full-Stack Engineer",
     description:
-      "Building future-proof digital experiences using Next.js, NestJS, Web3, AI, and real-time tech.",
+      "Building production-ready web and mobile products with TypeScript, React, Next.js, React Native, and scalable backend systems.",
     images: ["/og-image.png"],
     creator: "@kariebi._",
   },

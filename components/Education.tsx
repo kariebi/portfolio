@@ -2,7 +2,7 @@ const education = [
   {
     institution: "Federal University of Technology Owerri (FUTO)",
     degree: "B.Eng. Mechatronics Engineering",
-    period: "Expected 2025",
+    period: "Expected 2026",
   },
 ];
 
@@ -16,8 +16,12 @@ export default function Education() {
             key={edu.institution}
             className="flex items-center gap-4 p-4 rounded-xl border border-foreground/5 hover:border-foreground/10 transition-colors"
           >
-            <div className="w-12 h-12 rounded-xl bg-gray-50 flex items-center justify-center text-xs text-gray-400 font-bold shrink-0">
-              {edu.institution[0]}
+            <div className="w-12 h-12 rounded-xl bg-gray-50 flex items-center justify-center text-xs text-gray-400 font-bold shrink-0 overflow-hidden">
+              <img
+                src="/assets/logos/futo.jpeg"
+                alt="FUTO logo"
+                className="w-full h-full object-contain bg-white p-1"
+              />
             </div>
             <div className="flex flex-col gap-0.5 flex-1 min-w-0">
               <div className="flex items-center justify-between gap-2">
