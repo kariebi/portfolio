@@ -150,13 +150,13 @@ const projects: Project[] = [
   },
   {
     title: "Activaq",
-    date: "GitHub • TypeScript SDK",
+    date: "Open Source • TypeScript SDK",
     description:
       "Built a TypeScript SDK for Redis-powered real-time presence, active user counts, session heatmaps, and live room analytics, including a Next.js example app for hands-on integration.",
     tech: ["TypeScript", "Redis", "SSE", "Next.js", "SDK"],
     links: [
       {
-        label: "Open Source",
+        label: "Github",
         href: "https://github.com/kariebi/activaq",
         icon: "github",
       },
@@ -170,13 +170,13 @@ const projects: Project[] = [
   },
   {
     title: "Emitd",
-    date: "GitHub • Self-Hosted Webhooks",
+    date: "Open Source • Self-Hosted Webhooks",
     description:
       "Built a type-safe, self-hostable webhook delivery engine with retry handling, delivery guarantees, and detailed logs for event-driven applications.",
     tech: ["NestJS", "TypeScript", "Redis", "BullMQ", "PostgreSQL"],
     links: [
       {
-        label: "Open Source",
+        label: "Github",
         href: "https://github.com/kariebi/emitd",
         icon: "github",
       },
