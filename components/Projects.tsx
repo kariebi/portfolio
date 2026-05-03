@@ -110,20 +110,20 @@ const projects: Project[] = [
     ],
     image: "/assets/screenshots/fincore.png",
   },
-  {
-    title: "StudyFlex",
-    date: "Musigwe Labs • Android",
-    description:
-      "Android application built at Musigwe Labs with attention to usable learning flows, mobile performance, and an interface that feels straightforward for day-to-day use.",
-    tech: ["Android", "Mobile UI", "Performance", "Product UX"],
-    links: [
-      {
-        label: "Google Play",
-        href: "https://play.google.com/store/apps/details?id=com.kariebi.studyflex",
-        icon: "google-play",
-      },
-    ],
-  },
+  // {
+  //   title: "StudyFlex",
+  //   date: "Musigwe Labs • Android",
+  //   description:
+  //     "Android application built at Musigwe Labs with attention to usable learning flows, mobile performance, and an interface that feels straightforward for day-to-day use.",
+  //   tech: ["Android", "Mobile UI", "Performance", "Product UX"],
+  //   links: [
+  //     {
+  //       label: "Google Play",
+  //       href: "https://play.google.com/store/apps/details?id=com.kariebi.studyflex",
+  //       icon: "google-play",
+  //     },
+  //   ],
+  // },
   {
     title: "Sepow.co",
     date: "Codetratives • Website",
@@ -156,7 +156,7 @@ const projects: Project[] = [
     tech: ["TypeScript", "Redis", "SSE", "Next.js", "SDK"],
     links: [
       {
-        label: "GitHub",
+        label: "Open Source",
         href: "https://github.com/kariebi/activaq",
         icon: "github",
       },
@@ -176,7 +176,7 @@ const projects: Project[] = [
     tech: ["NestJS", "TypeScript", "Redis", "BullMQ", "PostgreSQL"],
     links: [
       {
-        label: "GitHub",
+        label: "Open Source",
         href: "https://github.com/kariebi/emitd",
         icon: "github",
       },
