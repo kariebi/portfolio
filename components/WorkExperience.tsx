@@ -13,8 +13,8 @@ const experiences = [
     logo: "/assets/logos/execufy.jpeg",
     details: [
       "Built product-facing web experiences for a hospitality operations platform.",
-      "Translated designs into polished, accessible UI components.",
-      "Worked across frontend delivery, realtime product flows, and production readiness.",
+      "Translated designs into polished, functional, accessible UI components.",
+      "Worked across full system delivery, realtime product flows, and production readiness.",
     ],
   },
   {
@@ -26,7 +26,7 @@ const experiences = [
     details: [
       "Led delivery across client web and mobile products.",
       "Built realtime features and data-heavy user flows.",
-      "Mentored engineers and helped raise delivery quality across the team.",
+      "Helped raise delivery quality across the team.",
     ],
   },
   {
