@@ -15,34 +15,36 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://kariebi.vercel.app"),
-  title: "Daukariebi Michael Soroh — Full-Stack Engineer",
+  title: "Daukariebi Michael Soroh — Full-Stack & Systems Engineer",
   description:
-    "Full-stack engineer building production web and mobile products with TypeScript, React, Next.js, React Native, and scalable backend systems.",
+    "Senior Full-Stack Engineer architecting high-scale, type-safe web and mobile applications with TypeScript, Next.js, NestJS, and decentralized Web3 infrastructures.",
   keywords: [
-    "Full-Stack Engineer",
-    "Software Engineer",
-    "Next.js",
-    "React Native",
-    "NestJS",
-    "React",
-    "TypeScript Developer",
-    "Mobile App Developer",
-    "Web Developer",
-    "Realtime Systems",
+    "Daukariebi Michael Soroh",
+    "Kariebi",
+    "Systems Architect",
+    "Senior Full-Stack Engineer",
+    "Next.js Developer",
+    "React Native Expert",
+    "NestJS backend",
+    "TypeScript Type-Safety",
+    "oRPC",
+    "Redis Realtime Systems",
+    "Web3 Blockchain Engineer",
+    "COTI Network",
   ],
   authors: [
     { name: "Daukariebi Michael Soroh", url: "https://kariebi.vercel.app" },
   ],
   creator: "Daukariebi Michael Soroh",
   openGraph: {
-    title: "Daukariebi Michael Soroh | Full-Stack Engineer",
+    title: "Daukariebi Michael Soroh | Elite Systems & Full-Stack Engineer",
     description:
-      "Production-focused engineer shipping polished web and mobile products across product UI, backend systems, and realtime infrastructure.",
+      "Architecting polished, high-throughput web and mobile products. Expert in Next.js, type-safe backend infrastructure, and scalable realtime data pipelines.",
     siteName: 'Michael "Kariebi" Soroh',
     images: [
       {
         url: "/og-image.png",
-        alt: "Daukariebi Michael Soroh - Fullstack Developer",
+        alt: "Daukariebi Michael Soroh - Fullstack Systems Engineer",
       },
     ],
     locale: "en_US",
@@ -50,9 +52,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Daukariebi Michael Soroh | Full-Stack Engineer",
+    title: "Daukariebi Michael Soroh | Full-Stack & Systems Architect",
     description:
-      "Building production-ready web and mobile products with TypeScript, React, Next.js, React Native, and scalable backend systems.",
+      "Building high-performance web and mobile solutions with TypeScript, Next.js, and high-throughput real-time systems.",
     images: ["/og-image.png"],
     creator: "@kariebi._",
   },
