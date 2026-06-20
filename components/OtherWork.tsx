@@ -3,27 +3,19 @@ import { cn } from "@/lib/utils";
 
 const otherWork = [
   {
-    date: "2026",
-    title: "Linux Deployment & Hotfix Releases",
-    location: "Musigwe Labs • Remote",
-    description:
-      "Managed Linux-based application deployments with Node.js and PM2, making it easier to ship updates and same-day fixes when products needed fast turnaround.",
-    links: [],
-  },
-  {
-    date: "2025",
-    title: "Homiee.AU Claims Flow",
-    location: "Frontend Engineering • Remote",
-    description:
-      "Helped ship a geolocation-based homeowner claims feature and supported a cleaner UI system for an easier, more reliable product experience.",
-    links: [],
-  },
-  {
     date: "2025",
     title: "Telegram Web-App UX Development",
     location: "Musigwe Labs • Remote",
     description:
       "Improved Telegram web-app UX and performance, helping product interactions feel smoother and more responsive for everyday users.",
+    links: [],
+  },
+  {
+    date: "2024",
+    title: "Linux Deployment & Hotfix Releases",
+    location: "Musigwe Labs • Remote",
+    description:
+      "Managed Linux-based application deployments with Node.js and PM2, making it easier to ship updates and same-day fixes when products needed fast turnaround.",
     links: [],
   },
   {
@@ -44,18 +36,10 @@ const otherWork = [
   },
   {
     date: "2024",
-    title: "X3 Staffing Platform Support",
+    title: "X3 Staffing",
     location: "Full-Stack Engineering • Remote",
     description:
       "Delivered responsive frontend work and API-facing backend improvements, helping core product flows feel faster and more dependable.",
-    links: [],
-  },
-  {
-    date: "2023",
-    title: "Ongoing Product Delivery",
-    location: "Nigeria • Remote",
-    description:
-      "Shipped production work across mobile, web, backend, and integration-heavy products while continuing to grow range across product and platform engineering.",
     links: [],
   },
 ];

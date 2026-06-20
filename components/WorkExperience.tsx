@@ -9,7 +9,7 @@ const experiences = [
     company: "Execufy",
     role: "Full-Stack Engineer",
     type: "Remote",
-    period: "Jan 2025 - Present",
+    period: "Sept 2022 - Present",
     logo: "/assets/logos/execufy.jpeg",
     details: [
       "Built product-facing web experiences for a hospitality operations platform.",
@@ -33,7 +33,7 @@ const experiences = [
     company: "Musigwe Labs",
     role: "Lead Frontend & Web3 Developer",
     type: "Remote",
-    period: "Jun 2023 - Present",
+    period: "Jun 2022 - Present",
      logo: "/assets/logos/musigwelabs.png",
     details: [
       "Worked on cross-platform mobile apps for iOS and Android.",
