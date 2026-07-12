@@ -9,7 +9,7 @@ const experiences = [
     company: "Execufy",
     role: "Full-Stack Engineer",
     type: "Remote",
-    period: "Sept 2022 - Present",
+    period: "Sept 2023 - Present",
     logo: "/assets/logos/execufy.jpeg",
     details: [
       "Built product-facing web experiences for a hospitality operations platform.",
